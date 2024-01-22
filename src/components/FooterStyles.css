@@ -1,7 +1,7 @@
 .footer
 {
     width: 100%;
-    padding:6rem 0;
+    padding:6rem 0 2rem 0;
     background-color: rgba(19, 19, 19, 0.8);
 }
 
@@ -43,7 +43,11 @@
 
 .social
 {
-    margin-top: 1rem;
+    margin: 1rem 0;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    cursor: pointer;
 }
 
 .h4
@@ -56,6 +60,17 @@ p{
     font-size: 1.2rem;
 }
 
+.footer-last p
+{
+    display: flex;
+    margin-top: 5px;
+    /* margin-bottom: -595px;     */
+    /* margin-right: 44px; */
+    /* padding: auto; */
+    /* align-items: center; */
+    justify-content: center;
+    color: rgb(17, 207, 42);
+}
 
 .fc:hover
 {
@@ -65,7 +80,5 @@ p{
 @media screen and (max-width:640px) {
     .footer-container{
         grid-template-columns: 1fr;
-
     }
-    
 }

@@ -8,7 +8,7 @@ const ProjectCardData =[
         title : "Ecommerce Website Design",
         text: "Thriving Facebook community and top-ranked padcast, Amy inspires a grounded, tangible and self-affirming sense of 'Wow! I really can so this'  for over 100,000 online entrepreneurs. Best-selling marketing courses",
         view : "https://dinesh0313.github.io/Flipkart/",
-        source : "https://dinesh0313.github.io/Flipkart/"
+        source : "https://github.com/dinesh0313/Flipkart"
     },
 
     {

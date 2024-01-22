@@ -46,6 +46,19 @@ ul{
   cursor: pointer;
 }
 
+.btn1{
+  padding: 8px 20px;
+  font-size: 1rem;
+  text-transform: uppercase;
+  background: rgb(248,217,15);
+  color: #222;
+  border: 1px solid #fff;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+
+
 .btn-light
 {
   background: transparent;
