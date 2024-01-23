@@ -40,7 +40,7 @@ const Footer = () => {
                     {/* <a href="./MyResume3.1.pdf" download="_blank" className="btn1">Download Resume</a> */}
                     {/* <a href="./MyResume3.1.pdf" >
                     <button className="btn1">Download CV</button></a> */}
-                    <a href={Resume} download='resume' target="_blank"><button className="btn1">Download CV</button></a>
+                    <a href={Resume} download='resume' target="_blank"><button className="btn1">Download Resume</button></a>
                 </div>
             </div>
         </div>
