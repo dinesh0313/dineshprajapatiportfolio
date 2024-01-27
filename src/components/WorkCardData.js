@@ -1,6 +1,6 @@
 import pro15 from "../assets/projectImg15jpg.png"
 import pro4 from "../assets/projectImg5.jpg"
-import pro3 from "../assets/projectImg3.jpg"
+import pro3 from "../assets/projectImg31.png"
 
 const ProjectCardData =[
     {
